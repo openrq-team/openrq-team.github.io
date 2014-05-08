@@ -1,0 +1,1 @@
+We would like to thank the support by the EC through projects FP7-607109 (SEGRID) and FP7-257475 (MASSIF), and by the FCT through the SITAN project (PTDC/EIA-EIA/113729/2009) and the LaSIGE Strategic Project (PEst-OE/EEI/UI0408/2014)

@@ -1,0 +1,2 @@
+baseurl: /OpenRQ
+exclude: [Gemfile, Gemfile.lock, README.md]

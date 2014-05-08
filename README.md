@@ -1,2 +1,1 @@
-openrq-team.github.io
-=====================
+## GitHub Page for the OpenRQ Team
