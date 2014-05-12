@@ -23,7 +23,6 @@ a:active {
 }
 a[name] {
     color:#353833;
-    font-weight:bold;
 }
 a[name]:hover {
     text-decoration:none;
