@@ -25,7 +25,7 @@ a[name] {
     color:#353833;
 }
 a[name]:hover {
-    text-decoration:none;
+    text-decoration:underline;
     color:#353833;
 }
 pre {
