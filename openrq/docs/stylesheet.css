@@ -10,7 +10,7 @@ body {
     margin:0;
 }
 a:link, a:visited {
-    text-decoration:underline;
+    text-decoration:none;
     color:#5bcc51;
 }
 a:hover, a:focus {
