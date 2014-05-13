@@ -10,16 +10,16 @@ body {
     margin:0;
 }
 a:link, a:visited {
-    text-decoration:none;
-    color:#4c6b87;
+    text-decoration:underline;
+    color:#5bcc51;
 }
 a:hover, a:focus {
-    text-decoration:none;
-    color:#bb7a2a;
+    text-decoration:underline;
+    color:#bf4c4c;
 }
 a:active {
-    text-decoration:none;
-    color:#4c6b87;
+    text-decoration:underline;
+    color:#5bcc51;
 }
 a[name] {
     color:#353833;
@@ -88,7 +88,7 @@ Document title and Copyright styles
     text-decoration:none;
 }
 .bar a:hover, .bar a:focus {
-    color:#bb7a2a;
+    color:#bf4c4c;
 }
 .tab {
     background-color:#0066FF;
@@ -138,8 +138,8 @@ Navigation bar styles
     overflow:hidden;
 }
 .subNav {
-    background-color:#dee3e9;
-    border-bottom:1px solid #9eadc0;
+    background-color:#cfe0ce;
+    border-bottom:1px solid #98b598;
     float:left;
     width:100%;
     overflow:hidden;
@@ -170,14 +170,14 @@ ul.subNavList li{
 }
 .topNav a:hover, .bottomNav a:hover {
     text-decoration:none;
-    color:#bb7a2a;
+    color:#bf4c4c;
 }
 .navBarCell1Rev {
     background-image:url(resources/tab.gif);
-    background-color:#a88834;
+    background-color:#33a533;
     color:#FFFFFF;
     margin: auto 5px;
-    border:1px solid #c9aa44;
+    border:1px solid #43c643;
 }
 /*
 Page header and footer styles
@@ -216,16 +216,16 @@ Page header and footer styles
 Heading styles
 */
 div.details ul.blockList ul.blockList ul.blockList li.blockList h4, div.details ul.blockList ul.blockList ul.blockListLast li.blockList h4 {
-    background-color:#dee3e9;
-    border-top:1px solid #9eadc0;
-    border-bottom:1px solid #9eadc0;
+    background-color:#d3e2d0;
+    border-top:1px solid #9aba9a;
+    border-bottom:1px solid #9aba9a;
     margin:0 0 6px -8px;
     padding:2px 5px;
 }
 ul.blockList ul.blockList ul.blockList li.blockList h3 {
-    background-color:#dee3e9;
-    border-top:1px solid #9eadc0;
-    border-bottom:1px solid #9eadc0;
+    background-color:#d3e2d0;
+    border-top:1px solid #9aba9a;
+    border-bottom:1px solid #9aba9a;
     margin:0 0 6px -8px;
     padding:2px 5px;
 }
