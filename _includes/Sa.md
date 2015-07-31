@@ -6,4 +6,4 @@ After completing his study on RaptorQ's resilience, Jos&eacute; thought it would
 You can contact Jos&eacute; via e-mail or twitter:  
 <strike><img src="resources/mail-logo.png" width="15" height="12" alt="Mail logo"/> jlopes<span></span>@lasige.di.fc.ul.pt</strike>  
 [<img src="resources/mail-logo.png" width="15" height="12" alt="Mail logo"/>  zemasa@gmail.com](mailto:zemasa@gmail.com)  
-[<img src="resources/twitter-logo.png" width="14" height="11" alt="Twitter logo"/>  @zemanelsa](https://twitter.com/zemanelsa)
+[<img src="resources/twitter-logo.png" width="14" height="11" alt="Twitter logo"/>  @b4stiel](https://twitter.com/b4stiel)
